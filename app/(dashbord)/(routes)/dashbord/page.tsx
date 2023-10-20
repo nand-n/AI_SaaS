@@ -2,7 +2,9 @@
 const dashbordPage =()=>{
   return (
 <div className="">
-    <p>Dashbord Page (Protected)</p>
+  <div className="flex justify-center items-center w-full h-full">
+    <h1>Dashboard one </h1>
+    </div>    
 </div>
     )
 }
