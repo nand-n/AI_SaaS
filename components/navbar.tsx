@@ -3,9 +3,9 @@ import {Menu} from 'lucide-react'
 
 const Navbar = () => {
     return ( <div className="flex items-center p-4 ">
-        <Button variant={'ghost'} size={'icon'} className="md:hidden">
+        {/* <Button variant={'ghost'} size={'icon'} className="md:hidden">
            <Menu />
-        </Button> 
+        </Button>  */}
         <div className="flex w-full justif "></div>
     </div> );
 }
