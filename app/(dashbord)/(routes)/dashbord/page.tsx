@@ -37,6 +37,8 @@ const dashbordPage =()=>{
           <div className="col-span text-white text-center bg-black">Monthly</div>
           <div className="col-span text-center">Yearly</div>
           <div className="col-span  text-center">Custom date</div>
+          <div className="col-span  text-center">Clear Date</div>
+
 
         </div>
       </div>
